@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item id="1">
+    <Name>thiwj chó</Name>
+    <Unit>Box</Unit>
+    <CreateDate>2009-06-15 13:45:30.0000000</CreateDate>
+    <ItemDetails>
+      <ItemDetail Id="d1">
+        <ItemId>1</ItemId>
+        <Price>100</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+      <ItemDetail Id="d2">
+        <ItemId>1</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+      <ItemDetail Id="d3">
+        <ItemId>1</ItemId>
+        <Price>300</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+    </ItemDetails>
+  </Item>
+  <Item id="2">
+    <Name>Thịt gà</Name>
+    <Unit>KG</Unit>
+    <CreateDate>2009-06-15 13:45:30.0000000</CreateDate>
+    <ItemDetails>
+      <ItemDetail Id="ditem2">
+        <ItemId>2</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+      <ItemDetail Id="d2">
+        <ItemId>2</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+      <ItemDetail Id="d3">
+        <ItemId>2</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+    </ItemDetails>
+  </Item>
+  <Item id="3">
+    <Name>Item 3</Name>
+    <Unit>Box</Unit>
+    <CreateDate>2009-06-15T13:45:30.0900000</CreateDate>
+    <ItemDetails>
+      <ItemDetail Id="d1">
+        <ItemId>3</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+      <ItemDetail Id="d2">
+        <ItemId>3</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+      <ItemDetail Id="d3">
+        <ItemId>3</ItemId>
+        <Price>200</Price>
+        <Quantity>13</Quantity>
+      </ItemDetail>
+    </ItemDetails>
+  </Item>
+  <Item id="29_id_19">    
+    <Name>cá</Name>
+    <Unit>123</Unit>
+    <CreateDate>2018-01-16 00:00:00.0000000</CreateDate>
+    <ItemDetails>
+      <ItemDetail Id="40_detailId_84">
+        <ItemId>29_id_19</ItemId>
+        <Price>23</Price>
+        <Quantity>23</Quantity>
+      </ItemDetail>
+    </ItemDetails>
+  </Item>
+</Items>

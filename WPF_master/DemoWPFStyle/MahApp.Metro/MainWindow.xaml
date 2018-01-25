@@ -1,0 +1,21 @@
+﻿<Controls:MetroWindow x:Class="MahApp.Metro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="MahApps.Metro.Style.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Style/Button.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="31,20,0,0" VerticalAlignment="Top" Width="453"  Height="76" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <ToggleButton Name="tbutton" Content="{DynamicResource StandardButton}" Style="{DynamicResource MetroCircleToggleButtonStyle}" Margin="20,114,364,74" />
+    </Grid>
+</Controls:MetroWindow>

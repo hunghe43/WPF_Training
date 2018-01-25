@@ -1,0 +1,4 @@
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.Model\bin\Debug\UserControl.Model.dll
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.Model\bin\Debug\UserControl.Model.pdb
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.Model\obj\Debug\UserControl.Model.dll
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.Model\obj\Debug\UserControl.Model.pdb

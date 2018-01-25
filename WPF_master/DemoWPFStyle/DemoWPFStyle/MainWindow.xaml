@@ -1,0 +1,34 @@
+﻿<Window x:Class="DemoWPFStyle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoWPFStyle"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+    <ResourceDictionary>
+        <ResourceDictionary.MergedDictionaries>
+            <ResourceDictionary Source="StyleTemplate.xaml"></ResourceDictionary>
+        </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="Yellow"></Setter>
+            </Style>
+        </Grid.Resources>
+        <Button Content="Style nằm trong Control" Width="208" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Red"></Setter>
+                    <Setter Property="Foreground" Value="White"></Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button Content="Style nằm ngoài Control" Width="250" Margin="236,0,31,282"></Button>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,57,0,0" TextWrapping="Wrap" Text="Content nằm trong file Resource" VerticalAlignment="Top" Width="497" Style="{StaticResource textboxTemplate}"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="24,101,0,0" VerticalAlignment="Top" Width="483"  Height="29"/>
+    </Grid>
+</Window>

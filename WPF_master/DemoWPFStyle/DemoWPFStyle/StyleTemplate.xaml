@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:DemoWPFStyle">
+    <Style TargetType="TextBox" x:Key="textboxTemplate">
+        <Setter Property="Background" Value="Green"></Setter>
+        <Setter Property="Foreground" Value="Yellow"></Setter>
+    </Style>
+    <Style TargetType="Button" x:Key="buttonTemplate">
+        <Setter Property="Background" Value="Gray"></Setter>
+        <Setter Property="Foreground" Value="Black"></Setter>
+      
+    </Style>
+    <ControlTemplate TargetType="Button" x:Key="buttonStyleTemplate">
+        <Border Name="fondoboton" BorderBrush="DarkGray" BorderThickness="5" 
+            CornerRadius="10,0,10,0"
+            Background="Red">
+        </Border>
+    </ControlTemplate>
+</ResourceDictionary>

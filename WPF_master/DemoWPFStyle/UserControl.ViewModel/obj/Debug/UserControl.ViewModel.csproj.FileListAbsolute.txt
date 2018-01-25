@@ -1,0 +1,16 @@
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel.csprojResolveAssemblyReference.cache
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\MainWindow.g.cs
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\App.g.cs
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel_MarkupCompile.cache
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel_MarkupCompile.lref
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\bin\Debug\UserControl.ViewModel.exe.config
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\bin\Debug\UserControl.ViewModel.exe
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\bin\Debug\UserControl.ViewModel.pdb
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\bin\Debug\UserControl.Model.dll
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\bin\Debug\UserControl.Model.pdb
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\MainWindow.baml
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel.g.resources
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel.Properties.Resources.resources
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel.csproj.GenerateResource.Cache
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel.exe
+E:\Working\Ruby\DemoStyleWPF\DemoWPFStyle\UserControl.ViewModel\obj\Debug\UserControl.ViewModel.pdb
